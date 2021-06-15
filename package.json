@@ -3,6 +3,7 @@
   "version": "0.0.1",
   "description": "Open Source Design System tokens management template.",
   "scripts": {
+    "build": "style-dictionary build",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Alessio Libardi",
